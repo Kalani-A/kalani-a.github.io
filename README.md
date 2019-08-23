@@ -1,2 +1,2 @@
 # kalanianderson.gitbub.io
-My first repository
+This repository is for my AP Computer Science Principles class.
