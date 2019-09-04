@@ -1,49 +1,58 @@
-        body{ /*This is for the background color*/
-            background-color:black
-        }
+        body{
+            background-color: black;} /*This is the background color*/
         h1{
-            text-align: center; /*This is for the alignment of my first header*/
-            color:skyblue; /*This is for the color of my first header*/
-            font-family: sans-serif; /*This is for the font of my first header*/
-            font-size: 40px; /*This is for the font size of my first header*/  
+            color: skyblue; /*This is the h1 color*/
+            text-align: center; /*This is the h1 alignment*/
+            font-family: sans-serif; /*This is the h1 font*/
+            font-size: 40px; /*This is the h1 size*/
         }
-       h2{
-            color:deepskyblue; /*This is for the color of my second header*/
-            text-align: center;/*This is for the alignment of my second header*/
-            font-family:cursive;/*This is for the font of my second header*/
-            font-size: 100px; /*This is for the font size of my second header*/  
+        h2{
+            color:deepskyblue; /*This is the h2 color*/
+            text-align: center; /*This is the h2 alignment*/
+            font-family:cursive; /*This is the h2 font*/
+            font-size: 100px; /*This is the h2 size*/
         }
-         pre{
-            font-family: sans-serif; /*This is for the font of my pre paragraph*/
-            font-size: 20px; /*This is for the font size of my pre paragpragh*/ 
-            text-align: center; /*This is for the alignment of my pre paragrapgh*/
-            color: aqua /*This is for the color of my pre paragrapgh*/
+h3{
+    color: deepskyblue; /*This is the h3 color*/
+    text-align: center; /*This is the h3 alignment*/
+    font-family: sans-serif; /*This is the h3 font*/
+    font-size: 30px; /*This is the h3 size*/
+}
+        p {
+            color:deepskyblue; /*This is the p color*/
+            text-align:center; /*This is the p alignment*/
+            font-family:sans-serif; /*This is the p font*/
+            font-size: 40px: /*This is the p size*/
         }
-        p1{
-            font-size: 22px; /*This is the font size for my first paragraph*/
-            color:deepskyblue; /*This is the color of my paragrapgh font*/
-            font-family:monospace; /*This is the type of font my paragrapgh is in*/
+   p2{
+            font-size: 22px; /*This is the p2 size*/
+            color:deepskyblue; /*This is the p2 color*/
+            font-family:monospace /*This is the p2 font*/
         }
-        p2{
-            font-size: 22px; /*This is the font size of my paragraph 2's*/
-            color:deepskyblue; /*This is the color or the text in paragraph 2*/
-            font-family:monospace /*This is the text style of the paragraph*/
+ pre{
+            font-family: sans-serif; /*This is the pre font*/
+            font-size: 20px; /*This is the pre size*/
+            text-align: center; /*This is the pre alignment*/
+            color: aqua; /*This is the pre color*/
         }
-        ul {
-            list-style-type: none;
+          ul {
+            list-style-type: none; 
             margin: 0;
             padding: 0;
             overflow: hidden;
-            background-color: #169;} /*This is the color of my nav bar*/
+            background-color: #169;
+        }
         li {
-            float: left;}
+            float: left;
+        }
         li a {
             display: block;
-            color: white; /*This is the color of the text in my nav bar*/
-            text-align: center; /*This is the alignment of my text in my nav bar*/
-            padding: 20px 110px; /*This is the padding size around my nav bar*/
+            color: white; /*This is the nav bar text color*/
+            text-align: center; /*This is the nav bar text alignment */
+            padding: 20px 110px; /*This is the nav bar border around the text*/
             text-decoration: none;
-            font-family: sans-serif; } /*This is the font of my nav bar*/
+            font-family: sans-serif; /*This is the nav bar text font */
+        }
        li a:hover {
-           background-color: #000; /*This is the color of the background of my nav bar when you hover over it*/
+           background-color: #000; /*This is the nav bar background color when hovered on*/
         }
