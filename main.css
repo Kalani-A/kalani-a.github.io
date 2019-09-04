@@ -25,9 +25,9 @@
             font-family:monospace; /*This is the type of font my paragrapgh is in*/
         }
         p2{
-            font-size: 22px; 
-            color:deepskyblue;
-            font-family:monospace
+            font-size: 22px; /*This is the font size of my paragraph 2's*/
+            color:deepskyblue; /*This is the color or the text in paragraph 2*/
+            font-family:monospace /*This is the text style of the paragraph*/
         }
         ul {
             list-style-type: none;
