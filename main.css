@@ -69,3 +69,23 @@ h5{
        li a:hover {
            background-color: #000; /*This is the nav bar background color when hovered on*/
         }
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    }
+
+div.gallery:hover {
+    border: 1px solid #777;
+    }
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    }
