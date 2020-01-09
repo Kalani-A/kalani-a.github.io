@@ -88,4 +88,6 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+    color: aqua;
+    font-family: sans-serif;
     }
